@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm **Mateus Alves**, an SRE at **Dentsu** based in Brazil. I focus on building and maintaining reliable cloud-native infrastructure using Kubernetes, Terraform, and multi-cloud environments (AWS, GCP, Azure). I have a strong Python background and I'm currently exploring Agentic AI and Mobile Applications development with React Native and Expo.
+I'm **Mateus Alves**, an SRE at **Dentsu**. I focus on building and maintaining reliable cloud-native infrastructure using Kubernetes, Terraform, and multi-cloud environments (AWS, GCP, Azure). I have a strong Python background and I'm currently exploring Agentic AI and Mobile Applications development with React Native and Expo.
 
 I care about building functional applications while also maintaining scalability, reliability, security, and performance.
 

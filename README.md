@@ -34,9 +34,9 @@ I care about building functional applications while also maintaining scalability
 
 <div align="center">
 
-<img height="180em" src="https://vercel-stats-sand-psi.vercel.app/api?username=alvesdmateus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://vercel-stats-sand-psi.vercel.app/api?username=alvesdmateus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alvesdmateus&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://vercel-stats-sand-psi.vercel.app/api/top-langs/?username=alvesdmateus&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://vercel-stats-sand-psi.vercel.app/api/top-langs/?username=alvesdmateus&layout=compact&theme=tokyonight&hide_border=true&v=2" />
 
 </div>
 
